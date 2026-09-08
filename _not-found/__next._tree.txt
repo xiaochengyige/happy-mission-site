@@ -1,2 +1,2 @@
-:HL["/happy-mission-site/_next/static/chunks/1qll4by80z6gj.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"Tt8igOms9JM_Q7inGdQxw"}
+:HL["/happy-mission-site/_next/static/chunks/3o2qs1pgo6l7g.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"YKXc2srW9_AVn0Cn1JZ8c"}
