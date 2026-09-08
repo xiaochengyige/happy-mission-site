@@ -1,0 +1,2 @@
+:HL["/happy-mission-site/_next/static/chunks/1yq-hf4f0873c.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"LDiYFV4TPEQJa7IWSE4Zp"}
